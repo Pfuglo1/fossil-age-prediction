@@ -183,7 +183,7 @@ Environment  Google Colab / Jupyter Notebook
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/fossil-age-prediction.git
+git clone https://github.com/Pfuglo1/fossil-age-prediction.git
 cd fossil-age-prediction
 
 # 2. Install dependencies
